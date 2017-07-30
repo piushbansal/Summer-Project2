@@ -1,5 +1,7 @@
 # Summer-Project2
 
+## Cyber Securtiy
+
 Setup:
 1. Vmware or virtualbox
 2. kalilinux virtual image (https://www.kali.org/downloads/)
@@ -19,7 +21,9 @@ If you want to learn metasploit, you can try tutorial by offensive security(http
 
 You can also try securitytube course:- http://www.securitytube.net/groups?operation=view&groupId=10
 
-For network Sniffing you will require Wireshark:- https://www.wireshark.org/
+For packet capturing you will require Wireshark:- https://www.wireshark.org/
+
+Learn network sniffing techniques like arp spoofing, men-in-the-middle attack etc.
 
 Tutorial for network sniffing:- https://www.youtube.com/watch?v=r0l_54thSYU
 
